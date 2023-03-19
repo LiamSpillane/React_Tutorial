@@ -1,1 +1,1 @@
-Following along with The Net Ninja's React.js tutorial series.
+React_Tutorial
